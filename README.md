@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Graduate in  Engineering** from Asansol Engineering College.
+- 🎓 **Graduate in  Computer Science & Engineering** from Asansol Engineering College.
 - 🌱 Currently learning **ReactJS**, **Web Development**, and **Machine Learning**
 - 💡 Passionate about **innovative solutions**, **teamwork**, and **continuous learning**.
 - ⚽ Enjoy playing football and chess in my free time.
