@@ -135,19 +135,19 @@
 ## 🏆 Achievements
 - 🥇 **All India Rank 529** in CodeKaze 2024.
 - 📚 Certifications in **Programming** and **Solar Energy**.
-- 🏅 Participated in **Robotics Training Session** at IIT Bombay and **Innovation Hardware Club Competition**.
+- 🏅 Participated in **Innovation Hardware Club Competition**.
 
 ---
 
 ## 🌐 Let's Connect
-- 📧 Email: [YourEmail@example.com](mailto:YourEmail@example.com)
-- 🔗 LinkedIn: [YourName](https://www.linkedin.com/in/YourLinkedInProfile)
+- 📧 Email: [rajeevkrsingh2350@gmail.com](rajeevkrsingh2350@gmail.com)
+- 🔗 LinkedIn: [rajeev724](https://www.linkedin.com/in/rajeev724/)
 - 🐦 Twitter: [YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
 ---
 
 ## 🛠️ Projects
-- 💬 **Chat App**: Built with **PHP**, **MySQL**, and **JavaScript** for Quick Interns.
+- 💬 **Chat App**: Built with **React.js**, **Node.js**, and **Mongodb** for Quick Interns.
 - 🛒 **E-Commerce Website**: MERN stack project integrated with **Cloudinary**, **Redis**, and **Stripe**.
 - 🔍 **Credit Card Fraud Detection**: Machine learning model using **Random Forest**.
 
