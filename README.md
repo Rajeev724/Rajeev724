@@ -3,7 +3,7 @@
 # 🌟 Welcome to Rajeev's GitHub Profile!
 
 [![GitHub followers](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/Rajeev724)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin)](https://www.linkedin.com/in/rajeev724/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajeev724-blue?logo=linkedin)](https://www.linkedin.com/in/rajeev724/)
 
 ---
 
