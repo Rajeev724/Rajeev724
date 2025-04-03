@@ -126,10 +126,10 @@
 ---
 
 ## 📈 GitHub Stats
-![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Rajeev724's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajeev724&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajeev724&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🏆 Achievements
