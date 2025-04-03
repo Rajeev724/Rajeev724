@@ -120,8 +120,19 @@
   </a>
 </p>
 
+---
 
+## 🌐 Let's Connect
+- 📧 Email: [rajeevkrsingh2350@gmail.com](rajeevkrsingh2350@gmail.com)
+- 🔗 LinkedIn: [rajeev724](https://www.linkedin.com/in/rajeev724/)
+- 🐦 Twitter: [YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 
+---
+
+## 🛠️ Projects
+- 💬 **Chat App**: Built with **React.js**, **Node.js**, and **Mongodb** for Quick Interns.
+- 🛒 **E-Commerce Website**: MERN stack project integrated with **Cloudinary**, **Redis**, and **Stripe**.
+- 🔍 **Credit Card Fraud Detection**: Machine learning model using **Random Forest**.
 
 ---
 
@@ -137,19 +148,6 @@
 - 📚 Certifications in **Programming** and **Solar Energy**.
 - 🏅 Participated in **Innovation Hardware Club Competition**.
 
----
-
-## 🌐 Let's Connect
-- 📧 Email: [rajeevkrsingh2350@gmail.com](rajeevkrsingh2350@gmail.com)
-- 🔗 LinkedIn: [rajeev724](https://www.linkedin.com/in/rajeev724/)
-- 🐦 Twitter: [YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-
----
-
-## 🛠️ Projects
-- 💬 **Chat App**: Built with **React.js**, **Node.js**, and **Mongodb** for Quick Interns.
-- 🛒 **E-Commerce Website**: MERN stack project integrated with **Cloudinary**, **Redis**, and **Stripe**.
-- 🔍 **Credit Card Fraud Detection**: Machine learning model using **Random Forest**.
 
 ---
 
