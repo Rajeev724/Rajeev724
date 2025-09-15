@@ -70,6 +70,10 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/> Express.js
   </a> 
+  <a href="https://www.php.net" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.php.net/images/logos/new-php-logo.png" alt="PHP" width="40" height="40" /> PHP
+</a>
+
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> Babel
   </a>
